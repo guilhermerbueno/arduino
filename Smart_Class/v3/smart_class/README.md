@@ -1,0 +1,1 @@
+Essa versão possui sensores DHT e de luminosidade
